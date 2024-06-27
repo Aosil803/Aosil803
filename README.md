@@ -1,5 +1,5 @@
 - 👋 Ola!! Me chamo Alexandre de Oliveira Silveira (@Aosil803)
-- 👀 Estudante no 3° Semestre de Análise e Desenvolvimento de Sistemas pela Unifeso (Teresópolis-RJ).
+- 👀 Estudante no 2° Semestre de Análise e Desenvolvimento de Sistemas pela Unifeso (Teresópolis-RJ).
 - 🌱 Com entusiasmo iniciando um novo desafio profissional.
 - 📫 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/aosil803)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:Aosil803@gmail.com)
